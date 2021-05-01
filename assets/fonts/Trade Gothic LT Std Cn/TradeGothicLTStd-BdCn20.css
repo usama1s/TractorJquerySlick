@@ -1,0 +1,12 @@
+/* Webfont: TradeGothicLTStd-BdCn20 */@font-face {
+    font-family: 'TradeGothicLTStdCn';
+    src: url('TradeGothicLTStd-BdCn20.eot'); /* IE9 Compat Modes */
+    src: url('TradeGothicLTStd-BdCn20.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TradeGothicLTStd-BdCn20.woff') format('woff'), /* Modern Browsers */
+         url('TradeGothicLTStd-BdCn20.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('TradeGothicLTStd-BdCn20.svg#TradeGothicLTStd-BdCn20') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
